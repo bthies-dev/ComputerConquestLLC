@@ -39,20 +39,19 @@
         <div class="container">
           <div class="row">
             <section class="col-6 col-12-narrower">
-              <div class="box post"> <a href="#" class="image left"><img src="images/form.png"
-
+              <div class="box post"> <a href="#" class="image left"><img src="images/form.png"
                     alt=""></a>
                 <div class="inner">
-                  <h3>Submit a Request</h3>
-                  <p>Call, text, email, or submit a support request form
-                    detailing your problem</p>
-                  <p><a href="https://www.microsoft.com/store/productId/9P7BP5VNWKX5">Click Here</a></p>
+                  <h3>Launch the App</h3>
+                  <p>From the Start menu or search button, for Quick Assist. If
+                    needed download from the link below</p>
+                  <p><a href="https://www.microsoft.com/store/productId/9P7BP5VNWKX5">Download
+                      Here</a></p>
                 </div>
               </div>
             </section>
             <section class="col-6 col-12-narrower">
-              <div class="box post"> <a href="#" class="image left"><img src="images/pic02.jpg"
-
+              <div class="box post"> <a href="#" class="image left"><img src="images/pic02.jpg"
                     alt=""></a>
                 <div class="inner">
                   <h3>Enter the Support Code</h3>
@@ -64,8 +63,7 @@
           </div>
           <div class="row">
             <section class="col-6 col-12-narrower">
-              <div class="box post"> <a href="#" class="image left"><img src="images/pic03.jpg"
-
+              <div class="box post"> <a href="#" class="image left"><img src="images/pic03.jpg"
                     alt=""></a>
                 <div class="inner">
                   <h3>Share Your Screen</h3>
@@ -75,8 +73,7 @@
               </div>
             </section>
             <section class="col-6 col-12-narrower">
-              <div class="box post"> <a href="#" class="image left"><img src="images/pic04.jpg"
-
+              <div class="box post"> <a href="#" class="image left"><img src="images/pic04.jpg"
                     alt=""></a>
                 <div class="inner">
                   <h3>Sit Back and Relax</h3>

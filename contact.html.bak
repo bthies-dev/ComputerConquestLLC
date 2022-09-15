@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>EMC Land - Home</title>
+    <title>Computer Conquest - Home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -12,12 +12,12 @@
     <div id="page-wrapper"> <!-- Header -->
       <div id="header">
         <!-- Logo -->
-        <h1><a href="index.html" id="logo">EMC Land LLC</a></h1>
+        <h1><a href="index.html" id="logo">Computer Conquest LLC</a></h1>
         <nav id="nav">
           <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="mission.html">Our Mission</a></li>
-            <li><a href="landprocess.html">The Buying Process</a></li>
+            <li><a href="landprocess.html">How Support Works</a></li>
             <li class="current"><a href="contact.html">Contact Us</a></li>
           </ul>
         </nav>
@@ -27,11 +27,11 @@
         <div class="container">
           <div id="content">
             <article>
-              <p style="text-align: center;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCTeZufEHV-_tn1iuWfQNgV5fn2HaAarJ9AWUKpMMKYo9fiA/viewform?embedded=true"
+              <p style="text-align: center;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBsiXXgjt3_L8tpdUMWAjv_Qmj_sg0tBWsH2hqU4ydEDe2OQ/viewform?embedded=true"
 
                   marginheight="0" marginwidth="0" height="1220" frameborder="0"
 
-                  width="420">Loading…</iframe> </p>
+                  width="100%">Loading…</iframe> </p>
             </article>
           </div>
         </div>
@@ -41,8 +41,8 @@
         <div class="container">
           <ul class="icons">
             <h2> Contact and Mailing Info </h2>
-            EMC Land <br>
-            Christopher Ross <br>
+            Computer Conquest <br>
+            Brennan Thies <br>
             10810 N Tatum Blvd <br>
             Suite 102-720 <br>
             Phoenix, AZ 85028
@@ -53,7 +53,7 @@
         <!-- Copyright -->
         <div class="copyright">
           <ul class="menu">
-            <li>© EMC Land LLC. All rights reserved</li>
+            <li>© Computer Conquest LLC. All rights reserved</li>
             <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
           </ul>
         </div>
