@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!--
+	Arcana by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)-->
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Computer Conquest - Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="assets/css/main.css">
+  </head>
+  <body class="is-preload">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header">
+        <!-- Logo -->
+        <h1><a href="index.html" id="logo">Computer Conquest LLC</a></h1>
+        <nav id="nav">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="mission.html">Our Mission</a></li>
+            <li class="current"><a href="landprocess.html">How Support Works</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+      <!-- Gigantic Heading -->
+      <!-- Gigantic Heading -->
+      <section class="wrapper style2">
+        <div class="container">
+          <header class="major">
+            <h2>How the Support Process Works</h2>
+            <p>Simplifying the remote access process to 4 simple steps<br>
+            </p>
+          </header>
+        </div>
+      </section>
+      <!-- Posts -->
+      <section class="wrapper style1">
+        <div class="container">
+          <div class="row">
+            <section class="col-6 col-12-narrower">
+              <div class="box post"> <a href="#" class="image left"><img src="images/form.png"
+
+                    alt=""></a>
+                <div class="inner">
+                  <h3>Submit a Request</h3>
+                  <p>Call, text, email, or submit a support request form
+                    detailing your problem</p>
+                  <p><a href="https://www.microsoft.com/store/productId/9P7BP5VNWKX5">Click Here</a></p>
+                </div>
+              </div>
+            </section>
+            <section class="col-6 col-12-narrower">
+              <div class="box post"> <a href="#" class="image left"><img src="images/pic02.jpg"
+
+                    alt=""></a>
+                <div class="inner">
+                  <h3>Enter the Support Code</h3>
+                  <p>We will contact you via your preferred method for remote
+                    access to assist you</p>
+                </div>
+              </div>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-6 col-12-narrower">
+              <div class="box post"> <a href="#" class="image left"><img src="images/pic03.jpg"
+
+                    alt=""></a>
+                <div class="inner">
+                  <h3>Share Your Screen</h3>
+                  <p>A small down payment and income to pay for the land is all
+                    you need</p>
+                </div>
+              </div>
+            </section>
+            <section class="col-6 col-12-narrower">
+              <div class="box post"> <a href="#" class="image left"><img src="images/pic04.jpg"
+
+                    alt=""></a>
+                <div class="inner">
+                  <h3>Sit Back and Relax</h3>
+                  <p>Get a coffee or relax while we take care of the problem. We
+                    will contact you when completed or more time is needed</p>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+      <!-- Footer -->
+      <div id="footer">
+        <div class="container">
+          <ul class="icons">
+            <h2> Contact and Mailing Info </h2>
+            Computer Conquest <br>
+            Brennan Thies <br>
+            Phone 216-206-7985 <br>
+            10810 N Tatum Blvd <br>
+            Suite 102-720 <br>
+            Phoenix, AZ 85028
+            <p></p>
+          </ul>
+        </div>
+        <!-- Icons -->
+        <!-- Copyright -->
+        <div class="copyright">
+          <ul class="menu">
+            <li>© Computer Conquest LLC. All rights reserved</li>
+            <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
